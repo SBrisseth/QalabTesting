@@ -4,6 +4,8 @@ public class Ejercicio {
         //Cambio desde interfaz web
         // Editando desde la github web
         int op; // declaracion de la variable opcion
+        String nombre, apellido;
+       
         Scanner cmd = new Scanner(System.in);
         System.out.println("Ingrese la opcion :");
         op = cmd.nextInt();
