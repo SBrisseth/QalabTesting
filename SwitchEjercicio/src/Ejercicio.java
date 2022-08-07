@@ -1,6 +1,8 @@
 import java.util.Scanner;
 public class Ejercicio {
     public static void main (String[] args){
+        //Cambio desde interfaz web
+        // Editando desde la github web
         int op; // declaracion de la variable opcion
         Scanner cmd = new Scanner(System.in);
         System.out.println("Ingrese la opcion :");
