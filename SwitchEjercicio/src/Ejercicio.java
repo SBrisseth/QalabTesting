@@ -5,7 +5,7 @@ public class Ejercicio {
         // Editando desde la github web
         int op; // declaracion de la variable opcion
 
-        String nombre, apellido;
+        //String nombre, apellido;
 
         Scanner cmd = new Scanner(System.in);
         System.out.println("Ingrese la opcion :");
