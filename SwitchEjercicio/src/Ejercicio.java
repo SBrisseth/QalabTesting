@@ -6,6 +6,7 @@ public class Ejercicio {
         int op; // declaracion de la variable opcion
 
         //String nombre, apellido;
+        //int edad;
 
         Scanner cmd = new Scanner(System.in);
         System.out.println("Ingrese la opcion :");
