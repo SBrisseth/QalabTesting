@@ -28,8 +28,8 @@ public class Ejercicio {
             case 4:
                 System.out.println("Haz marcado la opcion Autodestruir");
                 break;
-            case 5:
-                System.out.println("Opcion Modificada");
+           /* case 5:
+                System.out.println("Opcion Modificada");*/
             default:
                 System.out.println("Pruebe las otras opciones");
 
