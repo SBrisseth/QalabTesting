@@ -4,8 +4,9 @@ public class Ejercicio {
         //Cambio desde interfaz web
         // Editando desde la github web
         int op; // declaracion de la variable opcion
+
         Scanner cmd = new Scanner(System.in);
-        System.out.println("Ingrese la opcion :");
+        System.out.println("Usuario ingrese opcion :");
         op = cmd.nextInt();
         //op=0; // inicializamos la variable
 
@@ -25,8 +26,7 @@ public class Ejercicio {
             case 4:
                 System.out.println("Haz marcado la opcion Autodestruir");
                 break;
-            case 5:
-                System.out.println("Opcion Modificada");
+
             default:
                 System.out.println("Pruebe las otras opciones");
 
